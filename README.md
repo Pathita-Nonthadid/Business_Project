@@ -9,7 +9,7 @@ All files are sample dataset and sample codes.
     
     Step 0 - The data cleaning process is performed in Jupyter Notebook (LDA_Test.ipynb file). After the process of text lemmatized, cleaned data is exported as cleaned_data.csv file for further applying in BERTopic model.
     
-    Step 1 - The LDA model is continously performed in Jupyter Notebook. You can see the code in LDA_Test.ipynb file.
+    Step 1 - The LDA model is continously performed in Jupyter Notebook. You can see the code preview in LDA_Test.ipynb file.
     
     Step 2 - Due to errors of conflict between versions of some libraries in performing both LDA and BERTopic models that occurred in Jupyter Notebook, I decides to perform the BERTopic model in different program (Google Colab). The reason why I choose to use Google Colab is that it gives me free GPU, which are faster in performing sentence-transformers in BERTopic.
     
