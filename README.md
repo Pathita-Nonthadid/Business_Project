@@ -47,6 +47,7 @@ There are **4 files** of code: `Data_cleaning.ipynb`, `EDA.ipynb`, `Text_preproc
   - **Output files (Export from the code):** `lda_visualization.html` - Interactive visualisations for interpreting topics
 
 ### 4. BERTopic_Model.ipynb 
+- BERTopic model have to run in different file with LDA model due to the conflict in versions of some libraries between 2 models.
 - Input file: `cleaned_text.csv`
 - Run **BERTopic Model** for topic modeling
 - **Output files (Export from the code):** 
