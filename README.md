@@ -7,7 +7,7 @@ The workflow was implemented in **Python (Jupyter Notebooks)** and uses both **L
 
 ## Dataset 
 
-The dataset (**X_fulldataset.csv**) is raw dataset of 31,624 posts collected from **X (Twitter)** via **Apify**, covering the period **2 April – 1 July 2025 (90 days)**.  
+The dataset (`X_fulldataset.csv`) is raw dataset of 31,624 posts collected from **X (Twitter)** via **Apify**, covering the period **2 April – 1 July 2025 (90 days)**.  
 
 ## Code Files (Jupyter Notebooks)
 
